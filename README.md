@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 🚀 Full Stack Developer | Next.js Developer | Problem Solver
+###  Full Stack Developer | Next.js Developer | Problem Solver
 
 Building scalable web applications with modern technologies and creating seamless user experiences.
 
@@ -26,7 +26,7 @@ Building scalable web applications with modern technologies and creating seamles
 
 ---
 
-## 💫 About Me
+##  About Me
 
 I'm a passionate Full Stack Developer with experience in building modern, responsive, and scalable web applications. I enjoy transforming ideas into real-world products using modern frontend and backend technologies.
 
