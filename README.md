@@ -60,6 +60,7 @@ I'm a passionate Full Stack Developer with experience in building modern, respon
 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
+![GraphQL](https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql)
 
 ### Databases & ORM
 
@@ -67,51 +68,20 @@ I'm a passionate Full Stack Developer with experience in building modern, respon
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge\&logo=prisma)
 
+
 ### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge\&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge\&logo=vercel)
+![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens)
+![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary)
 
 ---
 
-## 🚀 Featured Projects
 
-### 💼 Job Portal Platform
-
-A full-stack recruitment platform connecting employers and job seekers.
-
-**Key Features**
-
-* Secure Authentication & Authorization
-* Job Posting & Management
-* Candidate Applications
-* Role-Based Access Control
-* Responsive UI
-* Optimized Database Queries
-
-**Tech Stack**
-Next.js • TypeScript • Prisma • PostgreSQL • Tailwind CSS
-
----
-
-### 🎬 Movie Discovery Application
-
-A modern movie discovery platform with advanced filtering and search capabilities.
-
-**Key Features**
-
-* Dynamic Movie Search
-* Filtering & Sorting
-* Responsive User Interface
-* API Integration
-* Optimized Performance
-
-**Tech Stack**
-Next.js • React • Tailwind CSS • OMDb API
-
----
 
 ### 🔐 Authentication & API Systems
 
@@ -148,21 +118,12 @@ Developed secure authentication systems and scalable REST APIs using modern back
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&hide_border=true)
-
----
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
-* 🌐 Portfolio: YOUR_PORTFOLIO_URL
-* 📧 Email: YOUR_EMAIL
+* 💼 LinkedIn: https://www.linkedin.com/in/mukulkumar123
+* 🌐 Portfolio: https://portfolio-mu-olive-h79nyofw9f.vercel.app/
+* 📧 Email: mukulkumarofficial5@gmail.com
 
 ---
 
